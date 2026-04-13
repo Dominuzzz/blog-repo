@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pandemonium Journal",
+    "description": "",
+    "home_page_url": "https://blog.pandemoniumart.net",
+    "feed_url": "https://blog.pandemoniumart.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dominus"
+    },
+    "items": [
+        {
+            "id": "https://blog.pandemoniumart.net/90s-pif-magazines.html",
+            "url": "https://blog.pandemoniumart.net/90s-pif-magazines.html",
+            "title": "90s Pif magazines",
+            "summary": "In 1990, I was eight years old. The Iron Curtain had fallen just a year prior, bringing a wave of imported goods from democratic countries, and for a kid my age, comic books were the ultimate treasure. Living in Brăila rather than Bucharest made them&hellip;",
+            "content_html": "<p data-path-to-node=\"0\">In 1990, I was eight years old. The Iron Curtain had fallen just a year prior, bringing a wave of imported goods from democratic countries, and for a kid my age, comic books were the ultimate treasure. Living in Brăila rather than Bucharest made them quite rare, but you could still occasionally find French BD albums at the press kiosks. Usually, they were hidden away; you had to ask for them specifically, and even though I was just a child, the vendors often expected a bribe before payment. This was where my mom stepped in, providing the necessary \"goods\" (usually coffee or cigarettes) on top of the money for the expensive magazine.</p>\n<p data-path-to-node=\"1\">I’ll never forget the first <i data-path-to-node=\"1\" data-index-in-node=\"28\">Pif</i> magazines my parents gave me; I was absolutely blown away. This was the early 90s series with glossy covers, full-color interiors, a huge variety of strips, and something truly amazing: each issue came with a toy. Of course, not every issue still had its toy attached by the time it reached the kiosk, but even when I was disappointed, I was happy just to have the magazine in my hands.</p>\n<p data-path-to-node=\"2\">I remember one birthday when my parents managed to set aside a couple of <i data-path-to-node=\"2\" data-index-in-node=\"73\">Pif</i> issues as a gift. Sadly, both toys had been \"extracted\" from the plastic seals before they even bought the magazines. Even after they offered extra money and goods to the vendor, they couldn't retrieve them. One of those issues advertised chocolate biscuits as a bonus. For a kid just discovering a world of sweets that weren't yet widely available, I was heartbroken to miss out. I even suspected my parents were hiding them to give to me later, which wasn't the case. I got over it quickly, though; while the toys were important, the art inside was the real treat.</p>\n<p data-path-to-node=\"3\">The French craft of <i data-path-to-node=\"3\" data-index-in-node=\"20\">bande dessinée</i> (BD) is legendary. Encountering all those different styles intrigued me and sparked a desire to create art myself. Although I was interested in drawing even before the magazines arrived, having access to such visual variety definitely helped form my early artistic vision. I was, and still am, a huge fan of <i data-path-to-node=\"3\" data-index-in-node=\"344\">Léonard</i> by Turk &amp; De Groot; it was so funny, expressive, and wonderfully drawn. There were so many others, too, from recurring characters to one-time stories: Pif , Hercule, Smith &amp; Wesson, Buzz &amp; Bell, Rahan, Lucky Luke, and many others.</p>\n<p data-path-to-node=\"4\">I soaked it all up like a sponge. Beyond the line art, I studied the layouts, colors, and poses, even trying to learn some French to understand the stories (which was easier since it’s a Latin language like Romanian).</p>\n<p data-path-to-node=\"5\">When I was lucky enough to get them, the toys were a fantastic addition! Everything from jelly skeletons and red whistle-lips to plastic flies and flying discs. While I \"digested\" other Romanian and French comics during that time, <i data-path-to-node=\"5\" data-index-in-node=\"230\">Pif</i> was truly formative for my perspective on art during those early years. <br><br>Today, in 2026, while spending the Easter holiday back at my parents' place, I rediscovered a few of my old <i data-path-to-node=\"0\" data-index-in-node=\"108\">Pif</i> magazines. It was a massive hit of nostalgia that unlocked so many lost memories. Most have been lost over the years and only about ten survived; they are in very poor condition now - clear proof that I read and studied them countless times.</p>",
+            "author": {
+                "name": "Dominus"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-13T23:19:09+03:00",
+            "date_modified": "2026-04-13T23:25:00+03:00"
+        }
+    ]
+}
